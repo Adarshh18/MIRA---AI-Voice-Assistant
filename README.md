@@ -32,11 +32,6 @@ MIRA/
 └── 📘 README.md            # Project documentation
 ```
 
----
-## Demo Video
-Link:-https://drive.google.com/file/d/1xpi5SOZOgWujgMy1Thla07FCpLaKgqQS/view?usp=sharing
----
-
 ## 📦 Prerequisites
 - **Python 3.9+** installed on your system.  
 - Required libraries (listed in `requirements.txt`).  
